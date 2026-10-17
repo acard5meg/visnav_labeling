@@ -1,0 +1,15 @@
+# -----------------------------------------------------------------
+# Configuration for the Trajectory Visualization App
+# -----------------------------------------------------------------
+# This file MUST be updated with your specific robot's calibration.
+
+# name must match the dataset name
+tartan1:
+  # key must match the row-col pair you want to overwrite in the rotation matrix
+  1-3: 1.0
+
+tartan2:
+  1-3: 1.0
+
+gnd:
+  1-3: 0.75
